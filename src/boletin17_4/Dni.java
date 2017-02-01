@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  * @author Ara
  */
 public class Dni {
-    int letra []=new int[23];
+    
     int dni;
     
     public void calculaLetra(){
