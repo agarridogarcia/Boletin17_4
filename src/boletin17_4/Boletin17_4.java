@@ -9,6 +9,9 @@ public class Boletin17_4 {
         Dni calc =new Dni();
         
         calc.calculaLetra();
+        //con un array
+        calc.calcularDni();
+      
     }
     
 }
