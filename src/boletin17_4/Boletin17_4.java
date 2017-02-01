@@ -7,7 +7,7 @@ public class Boletin17_4 {
    
     public static void main(String[] args) {
         Dni calc =new Dni();
-        //calc.calcularLetraDNI(77419567);
+        
         calc.calculaLetra();
     }
     
